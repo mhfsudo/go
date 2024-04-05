@@ -3,6 +3,18 @@
 ## Description
 *Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.*
 
+## Branching Model
+I use GitLab / GitHub Flow as branching model. The default branch is main. 
+
+https://about.gitlab.com/topics/version-control/what-is-gitlab-flow/
+https://docs.github.com/en/get-started/using-github/github-flow
+
+Below is the workflow for adding new code:
+1. Create feature branch
+2. Make changes on this feature branch
+3. Create a merge or pull request for merging feature to main
+4. Delete your feature branch
+
 ## Contributing
 Every feedback is appreciated.
 
