@@ -15,6 +15,11 @@ Below is the workflow for adding new code:
 3. Create a merge or pull request for merging feature to main
 4. Delete your feature branch
 
+## Pre-commit hooks
+I use the pre-commit hook example. This is not yet devloped further.
+
+https://pre-commit.com/
+
 ## Contributing
 Every feedback is appreciated.
 
